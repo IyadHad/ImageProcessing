@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjetS3_Iyad8valentin", "ProjetS3_Iyad8valentin.csproj", "{F738CA09-8346-44B9-8E53-BAD91E6F0213}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestUnitaire", "..\TestUnitaire\TestUnitaire.csproj", "{0CF8DB24-60BC-45DF-9C98-86BC82F956D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F738CA09-8346-44B9-8E53-BAD91E6F0213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F738CA09-8346-44B9-8E53-BAD91E6F0213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F738CA09-8346-44B9-8E53-BAD91E6F0213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F738CA09-8346-44B9-8E53-BAD91E6F0213}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CF8DB24-60BC-45DF-9C98-86BC82F956D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CF8DB24-60BC-45DF-9C98-86BC82F956D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CF8DB24-60BC-45DF-9C98-86BC82F956D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CF8DB24-60BC-45DF-9C98-86BC82F956D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F74AECF9-D676-4D58-A996-7D7C9F1878F1}
+	EndGlobalSection
+EndGlobal
